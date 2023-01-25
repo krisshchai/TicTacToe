@@ -18,12 +18,17 @@ File names:
 GamePlay:
 
 1> The game will prompt a welcome message and asks the user to choose the mode of the game. i.e single player or two players
+
 2> If user selects single player, then it asks to choose the symbol amoung 'X' and 'O'. If the user selects 'X', then he will be 
 playing first. If he / she choose 'O', then computer will have its first move.
+
 3> User will be asked to select the position in the grid to place the symbol. If wrong position is entered, it will ask again to
 enter. Once the user enter the position, computer will select one of the available position and display the board in command prompt.
+
 4> If user choose two players mode, then a message is prompted indicating player 1 symbol will be 'X' and player 2 symbol will be 'O'.
+
 5> Both players will be asked to choose their position in the grid sequentially. The one who arrange his / her three symbols in a row,
 will be declared as winner. If no one wins, then the game will be declared as tie.
+
 6> After declaring the status of the game, application will ask the user to play again or not. If the user wants to play again, he/she
 has to press 'Y' key to continue.
