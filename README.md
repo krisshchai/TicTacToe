@@ -2,7 +2,7 @@
 
 OverView:
 
-	This is a straightforward game written in C# and is a console application. Two players, with different symbols ('X' and 'O'), 
+This is a straightforward game written in C# and is a console application. Two players, with different symbols ('X' and 'O'), 
 Players compete against one another in a 3 x 3 grid. The motive for winning this game is to get their three symbols in a row. 
 Players will take turns placing their symbols on the grid in a horizontal, vertical, or diagonal pattern to achieve victory. 
 The one who completes the task first is declared the winner of the game. If both players fail to get their three symbols in a row 
